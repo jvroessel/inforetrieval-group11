@@ -13,3 +13,5 @@ en installeer deze package:
 
 
 Dan verder de scripts van de c5 folder zitten al in de trqa code maar moeten aangepast worden. En de generation.sh moet in de root van die trqa folder zelf. en check de generation.sh files, die kun je configureren zoals bij de METHOD variable welk model je wilt gebruiken.
+
+Misschien een backup maken van je code is handig voordat men alles aanpast.
